@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-challenge",
+  "version": "1.0.0",
+  "description": "Desafio para a vaga de desenvolvedor de sistemas.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desafio-concurso-crateus/fullstack-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desafio-concurso-crateus/fullstack-challenge/issues"
+  },
+  "homepage": "https://github.com/desafio-concurso-crateus/fullstack-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

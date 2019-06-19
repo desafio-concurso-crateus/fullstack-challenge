@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Engenharia de Software",
+    "researchers": [
+      {
+        "id": 1,
+        "name": "Rossana Andrade"
+      },
+      {
+        "id": 2,
+        "name": "João Bosco"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Redes de Computadores",
+    "researchers": [
+      {
+        "id": 3,
+        "name": "José Neuman"
+      },
+      {
+        "id": 4,
+        "name": "Paulo Antonio Rego"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Banco de Dados",
+    "researchers": [
+      {
+        "id": 5,
+        "name": "José Maria Monteiro"
+      },
+      {
+        "id": 6,
+        "name": "José Antonio Macedo"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sistemas Distribuídos",
+    "researchers": [
+      {
+        "id": 7,
+        "name": "Windson Viana"
+      },
+      {
+        "id": 8,
+        "name": "Fernando Trinta"
+      }
+    ]
+  }
+]

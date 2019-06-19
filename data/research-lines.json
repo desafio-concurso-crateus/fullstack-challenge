@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Engenharia de Software" },
+  { "id": 2, "name": "Redes de Computadores" },
+  { "id": 3, "name": "Banco de Dados" },
+  { "id": 4, "name": "Sistemas Distribuídos" }
+]
